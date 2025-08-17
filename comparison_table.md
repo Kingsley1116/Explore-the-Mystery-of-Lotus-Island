@@ -16,7 +16,7 @@
 | 迴圈             | 循环             | Loop                     |
 | 函式             | 函数             | Function                 |
 | 參數             | 参数             | Parameter                |
-| 返回值           | 返回值           | Return Value             |
+| 回傳值           | 返回值           | Return Value             |
 | 錯誤處理         | 错误处理         | Error Handling           |
 | 例外             | 异常             | Exception                |
 | 模組             | 模块             | Module                   |
