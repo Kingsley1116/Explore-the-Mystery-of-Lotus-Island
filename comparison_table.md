@@ -10,6 +10,7 @@
 | 串列             | 列表             | List                     |
 | 元組             | 元组             | Tuple                    |
 | 字典             | 字典             | Dictionary               |
+| 鍵值對           | 键值对           | Key-Value pair           |
 | 運算子           | 运算符           | Operator                 |
 | 條件語句         | 条件语句         | Conditional Statement    |
 | 迴圈             | 循环             | Loop                     |
